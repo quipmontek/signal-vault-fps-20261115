@@ -1,5 +1,9 @@
 # SIGNAL VAULT
 
+[![Make.fun](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02)
+[![Make.fun rank](https://make.fun/badge/threejs-fps-02/quipmontek/signal-vault-fps-20261115/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard)
+[![Make.fun reward](https://make.fun/badge/threejs-fps-02/quipmontek/signal-vault-fps-20261115/reward.svg)](https://make.fun/bounty/threejs-fps-02)
+
 An original offline 3v3 tactical FPS: teal **WAVE** versus amber **STATIC** in
 **Facility 09 / The Resonance Well**. Procedural architecture, characters, weapons,
 canvas signage and synthesized audio; no paid or downloaded art assets.
