@@ -90,10 +90,15 @@ composites. The lexically first screenshot is the cover. `?seed=123` sets a live
 
 ## Delivery status
 
-This is a **local candidate**, not a submitted entry. No remote repository, push,
-deployment, login, wallet creation, payment or submission has been performed.
-The official gate, transcript validity and rank can only be established by the
-competition's tools/server, not by this project's regression tests.
+At this **pre-submission local checkpoint**, the official local pre-submit check
+passed for the current candidate. This records local validation, not publication
+or submission status. The contest server provides the actual score after receipt;
+there is no local grade.
+
+Under make.fun's official `handed_over_places=none` rule, this handed-off OpenCode
+session can be ranked but cannot take a paid place. No rank, prize or live server
+result is promised. Screenshots show deterministic offline scenes, not live match
+proof.
 
 The genuine OpenCode session can be packaged with the kit CLI's native database
 discovery. A local bundle and check results are kept under ignored `artifacts/`.
