@@ -1,0 +1,13 @@
+out/
+out-a/
+out-b/
+node_modules/
+opencode.stdout.jsonl
+opencode.stderr
+artifacts/
+starter/
+cli/
+harness/
+RULES.txt
+competition.yaml
+kit.json
